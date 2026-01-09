@@ -6,4 +6,4 @@
 
 <> RUST
 
-<> Crate: [pixel2ascii]("https://crates.io/crates/pixel2ascii")
+<> Crate: [pixel2ascii](https://crates.io/crates/pixel2ascii)
