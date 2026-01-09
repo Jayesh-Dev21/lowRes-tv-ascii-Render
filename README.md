@@ -96,4 +96,6 @@ Contributing
 License
 - See the `LICENSE` file in the repository.
 
-Enjoy ASCII TV! 😄
+Enjoy ASCII YT in Low Res! 😄
+
+--> Inspired by - [SameerVers3]("https://github.com/SameerVers3/stdout-tv")
