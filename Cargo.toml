@@ -1,0 +1,7 @@
+[package]
+name = "lowRes-tv-ascii-Render"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+pixel2ascii = "0.1.1"
