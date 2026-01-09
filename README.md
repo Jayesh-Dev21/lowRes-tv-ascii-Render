@@ -98,4 +98,4 @@ License
 
 Enjoy ASCII YT in Low Res! 😄
 
---> Inspired by - [SameerVers3]("https://github.com/SameerVers3/stdout-tv")
+--> Inspired by - [SameerVers3](https://github.com/SameerVers3/stdout-tv)
