@@ -1,6 +1,6 @@
 # LOW Resolution — YT-TV ASCII Render
 
-A tiny, opinionated Rust tool that renders low-resolution video (for example, YouTube streams) as ASCII in your terminal.
+A tiny, opinionated Rust tool that renders low-resolution YouTube streams as ASCII in your terminal.
 
 Core ideas:
 - Use `ffmpeg` (via a spawned process) to extract frames and audio.
