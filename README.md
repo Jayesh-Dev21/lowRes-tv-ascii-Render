@@ -9,6 +9,13 @@
 <> Crate: [pixel2ascii](https://crates.io/crates/pixel2ascii)
 
 
+---
+
+Test Now using - 
+```bash
+./lowRes-tv-ascii-Render play "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+```
+
 folder structure
 ```
 src/
