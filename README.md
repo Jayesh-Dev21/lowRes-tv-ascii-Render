@@ -2,6 +2,10 @@
 
 A tiny, opinionated Rust tool that renders low-resolution YouTube streams as ASCII in your terminal.
 
+
+https://github.com/user-attachments/assets/d846d7eb-ccdd-4fd4-b23f-236365ea7247
+
+
 Core ideas:
 - Use `ffmpeg` (via a spawned process) to extract frames and audio.
 - Convert frames to a small RGB buffer and map pixels to ASCII characters using the `pixel2ascii` crate.
